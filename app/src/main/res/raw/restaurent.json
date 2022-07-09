@@ -1,0 +1,272 @@
+[
+  {
+    "name":"Hospital1",
+    "address":"Direccion1",
+    "delivery_charge": 5,
+    "image":"https://img.freepik.com/vector-gratis/logo-hospital-verde-azul_1043-66.jpg",
+
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 9:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 11:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 11:00 PM",
+      "Saturday":"10:00 AM - 2:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Panadol Antigripal 500mg",
+        "price": 10.00,
+        "url": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/025891X.jpg"
+      },
+      {
+        "name": "Test Nasal SARS-CoV-2 Antigen Self",
+        "price": 13.99,
+        "url": "https://inkafarmaproductimages.s3.us-west-2.amazonaws.com/imagesproducto/036568X.jpg"
+      },
+      {
+        "name": "Prueba Rapida Covid-19",
+        "price": 4.99,
+        "url": "https://khn.org/wp-content/uploads/sites/2/2022/01/GettyImages-1237475449_1350.jpg?w=1270"
+      },
+      {
+        "name": "Mascarilla Desechable 3 Pliegues - Caja 50 UN",
+        "price": 5.49,
+        "url": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/030310X.jpg"
+      },
+      {
+        "name": "Ivermectina PTG 6mg/mL Solución Oral",
+        "price": 4.00,
+        "url": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/030374X.jpg"
+      },
+      {
+        "name": "Alcohol 100X 70% - Frasco 1000 ML",
+        "price": 3.25,
+        "url":"https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/030473X.jpg"
+      },
+      {
+        "name": "Ibuprofeno 400mg Tableta recubierta",
+        "price": 5.49,
+        "url": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/230341X.jpg"
+      },
+      {
+        "name": "Dolo Neurobion Forte Solución Inyectable Prellenada",
+        "price": 3.99,
+        "url": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/011339X.jpg"
+      },
+      {
+        "name": "Oxímetro de Pulso Fingertip LED - Caja 1 UN",
+        "price": 8.09,
+        "url": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/030216X.jpg"
+      },
+      {
+        "name": "Voltaren 1 % Emulgel - Tubo 100 G",
+        "price": 6.49,
+        "url": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/036697X.jpg"
+      }
+    ]
+  },
+  {
+    "name":"Hospital2",
+    "address":"DIRECCION2",
+    "delivery_charge": 4,
+    "image":"https://www.crushpixel.com/big-static14/preview4/hospital-logo-symbols-template-icons-1493596.jpg",
+
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"9:00 AM - 1:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Panadol Antigripal 500mg",
+        "price": 10.00,
+        "url": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/025891X.jpg"
+      },
+      {
+        "name": "Test Nasal SARS-CoV-2 Antigen Self",
+        "price": 13.99,
+        "url": "https://inkafarmaproductimages.s3.us-west-2.amazonaws.com/imagesproducto/036568X.jpg"
+      },
+      {
+        "name": "Prueba Rapida Covid-19",
+        "price": 4.99,
+        "url": "https://khn.org/wp-content/uploads/sites/2/2022/01/GettyImages-1237475449_1350.jpg?w=1270"
+      },
+      {
+        "name": "Mascarilla Desechable 3 Pliegues - Caja 50 UN",
+        "price": 5.49,
+        "url": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/030310X.jpg"
+      },
+      {
+        "name": "Ivermectina PTG 6mg/mL Solución Oral",
+        "price": 4.00,
+        "url": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/030374X.jpg"
+      },
+      {
+        "name": "Alcohol 100X 70% - Frasco 1000 ML",
+        "price": 3.25,
+        "url":"https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/030473X.jpg"
+      },
+      {
+        "name": "Ibuprofeno 400mg Tableta recubierta",
+        "price": 5.49,
+        "url": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/230341X.jpg"
+      },
+      {
+        "name": "Dolo Neurobion Forte Solución Inyectable Prellenada",
+        "price": 3.99,
+        "url": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/011339X.jpg"
+      },
+      {
+        "name": "Oxímetro de Pulso Fingertip LED - Caja 1 UN",
+        "price": 8.09,
+        "url": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/030216X.jpg"
+      },
+      {
+        "name": "Voltaren 1 % Emulgel - Tubo 100 G",
+        "price": 6.49,
+        "url": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/036697X.jpg"
+      }
+    ]
+  },
+  {
+    "name":"Hospital3",
+    "address":"DIRECCION3",
+    "delivery_charge": 5,
+    "image":"https://thumbs.dreamstime.com/b/plantilla-del-logotipo-hospital-117487677.jpg",
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"9:00 AM - 2:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Panadol Antigripal 500mg",
+        "price": 10.00,
+        "url": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/025891X.jpg"
+      },
+      {
+        "name": "Test Nasal SARS-CoV-2 Antigen Self",
+        "price": 13.99,
+        "url": "https://inkafarmaproductimages.s3.us-west-2.amazonaws.com/imagesproducto/036568X.jpg"
+      },
+      {
+        "name": "Prueba Rapida Covid-19",
+        "price": 4.99,
+        "url": "https://khn.org/wp-content/uploads/sites/2/2022/01/GettyImages-1237475449_1350.jpg?w=1270"
+      },
+      {
+        "name": "Mascarilla Desechable 3 Pliegues - Caja 50 UN",
+        "price": 5.49,
+        "url": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/030310X.jpg"
+      },
+      {
+        "name": "Ivermectina PTG 6mg/mL Solución Oral",
+        "price": 4.00,
+        "url": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/030374X.jpg"
+      },
+      {
+        "name": "Alcohol 100X 70% - Frasco 1000 ML",
+        "price": 3.25,
+        "url":"https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/030473X.jpg"
+      },
+      {
+        "name": "Ibuprofeno 400mg Tableta recubierta",
+        "price": 5.49,
+        "url": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/230341X.jpg"
+      },
+      {
+        "name": "Dolo Neurobion Forte Solución Inyectable Prellenada",
+        "price": 3.99,
+        "url": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/011339X.jpg"
+      },
+      {
+        "name": "Oxímetro de Pulso Fingertip LED - Caja 1 UN",
+        "price": 8.09,
+        "url": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/030216X.jpg"
+      },
+      {
+        "name": "Voltaren 1 % Emulgel - Tubo 100 G",
+        "price": 6.49,
+        "url": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/036697X.jpg"
+      }
+    ]
+  },
+  {
+    "name":"Hospital4",
+    "address":"DIRECCION4",
+    "delivery_charge": 6,
+    "image":"https://getvectorlogo.com/wp-content/uploads/2019/01/metropolitan-hospital-vector-logo.png",
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"10:00 AM - 3:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Panadol Antigripal 500mg",
+        "price": 10.00,
+        "url": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/025891X.jpg"
+      },
+      {
+        "name": "Test Nasal SARS-CoV-2 Antigen Self",
+        "price": 13.99,
+        "url": "https://inkafarmaproductimages.s3.us-west-2.amazonaws.com/imagesproducto/036568X.jpg"
+      },
+      {
+        "name": "Prueba Rapida Covid-19",
+        "price": 4.99,
+        "url": "https://khn.org/wp-content/uploads/sites/2/2022/01/GettyImages-1237475449_1350.jpg?w=1270"
+      },
+      {
+        "name": "Mascarilla Desechable 3 Pliegues - Caja 50 UN",
+        "price": 5.49,
+        "url": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/030310X.jpg"
+      },
+      {
+        "name": "Ivermectina PTG 6mg/mL Solución Oral",
+        "price": 4.00,
+        "url": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/030374X.jpg"
+      },
+      {
+        "name": "Alcohol 100X 70% - Frasco 1000 ML",
+        "price": 3.25,
+        "url":"https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/030473X.jpg"
+      },
+      {
+        "name": "Ibuprofeno 400mg Tableta recubierta",
+        "price": 5.49,
+        "url": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/230341X.jpg"
+      },
+      {
+        "name": "Dolo Neurobion Forte Solución Inyectable Prellenada",
+        "price": 3.99,
+        "url": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/011339X.jpg"
+      },
+      {
+        "name": "Oxímetro de Pulso Fingertip LED - Caja 1 UN",
+        "price": 8.09,
+        "url": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/030216X.jpg"
+      },
+      {
+        "name": "Voltaren 1 % Emulgel - Tubo 100 G",
+        "price": 6.49,
+        "url": "https://dcuk1cxrnzjkh.cloudfront.net/imagesproducto/036697X.jpg"
+      }
+    ]
+  }
+]
